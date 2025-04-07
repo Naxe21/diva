@@ -38,6 +38,7 @@
     .isi{
         display: flex;
         flex-direction: row;
+        justify-content: space-between;
     }
     #ket{
         width: 140px;
